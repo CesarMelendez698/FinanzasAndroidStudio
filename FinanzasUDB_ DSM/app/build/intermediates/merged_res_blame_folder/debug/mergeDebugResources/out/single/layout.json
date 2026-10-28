@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "C:\\Users\\cesar\\.gradle\\daemon\\9.0.0\\sv.edu.udb.finanzasudb.app-mergeDebugResources-46:\\layout\\activity_transactions.xml",
+        "source": "C:\\Users\\cesar\\.gradle\\daemon\\9.0.0\\sv.edu.udb.finanzasudb.app-main-49:\\layout\\activity_transactions.xml"
+    },
+    {
+        "merged": "C:\\Users\\cesar\\.gradle\\daemon\\9.0.0\\sv.edu.udb.finanzasudb.app-mergeDebugResources-46:\\layout\\dialog_transaction_ticket.xml",
+        "source": "C:\\Users\\cesar\\.gradle\\daemon\\9.0.0\\sv.edu.udb.finanzasudb.app-main-49:\\layout\\dialog_transaction_ticket.xml"
+    },
+    {
+        "merged": "C:\\Users\\cesar\\.gradle\\daemon\\9.0.0\\sv.edu.udb.finanzasudb.app-mergeDebugResources-46:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\cesar\\.gradle\\daemon\\9.0.0\\sv.edu.udb.finanzasudb.app-main-49:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\cesar\\.gradle\\daemon\\9.0.0\\sv.edu.udb.finanzasudb.app-mergeDebugResources-46:\\layout\\item_news.xml",
+        "source": "C:\\Users\\cesar\\.gradle\\daemon\\9.0.0\\sv.edu.udb.finanzasudb.app-main-49:\\layout\\item_news.xml"
+    },
+    {
+        "merged": "C:\\Users\\cesar\\.gradle\\daemon\\9.0.0\\sv.edu.udb.finanzasudb.app-mergeDebugResources-46:\\layout\\activity_news.xml",
+        "source": "C:\\Users\\cesar\\.gradle\\daemon\\9.0.0\\sv.edu.udb.finanzasudb.app-main-49:\\layout\\activity_news.xml"
+    },
+    {
+        "merged": "C:\\Users\\cesar\\.gradle\\daemon\\9.0.0\\sv.edu.udb.finanzasudb.app-mergeDebugResources-46:\\layout\\dialog_fee_form.xml",
+        "source": "C:\\Users\\cesar\\.gradle\\daemon\\9.0.0\\sv.edu.udb.finanzasudb.app-main-49:\\layout\\dialog_fee_form.xml"
+    },
+    {
+        "merged": "C:\\Users\\cesar\\.gradle\\daemon\\9.0.0\\sv.edu.udb.finanzasudb.app-mergeDebugResources-46:\\layout\\activity_profile.xml",
+        "source": "C:\\Users\\cesar\\.gradle\\daemon\\9.0.0\\sv.edu.udb.finanzasudb.app-main-49:\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\cesar\\.gradle\\daemon\\9.0.0\\sv.edu.udb.finanzasudb.app-mergeDebugResources-46:\\layout\\activity_budgets.xml",
+        "source": "C:\\Users\\cesar\\.gradle\\daemon\\9.0.0\\sv.edu.udb.finanzasudb.app-main-49:\\layout\\activity_budgets.xml"
+    },
+    {
+        "merged": "C:\\Users\\cesar\\.gradle\\daemon\\9.0.0\\sv.edu.udb.finanzasudb.app-mergeDebugResources-46:\\layout\\bottom_nav_bar.xml",
+        "source": "C:\\Users\\cesar\\.gradle\\daemon\\9.0.0\\sv.edu.udb.finanzasudb.app-main-49:\\layout\\bottom_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\cesar\\.gradle\\daemon\\9.0.0\\sv.edu.udb.finanzasudb.app-mergeDebugResources-46:\\layout\\item_transaction.xml",
+        "source": "C:\\Users\\cesar\\.gradle\\daemon\\9.0.0\\sv.edu.udb.finanzasudb.app-main-49:\\layout\\item_transaction.xml"
+    },
+    {
+        "merged": "C:\\Users\\cesar\\.gradle\\daemon\\9.0.0\\sv.edu.udb.finanzasudb.app-mergeDebugResources-46:\\layout\\item_budget.xml",
+        "source": "C:\\Users\\cesar\\.gradle\\daemon\\9.0.0\\sv.edu.udb.finanzasudb.app-main-49:\\layout\\item_budget.xml"
+    },
+    {
+        "merged": "C:\\Users\\cesar\\.gradle\\daemon\\9.0.0\\sv.edu.udb.finanzasudb.app-mergeDebugResources-46:\\layout\\activity_register.xml",
+        "source": "C:\\Users\\cesar\\.gradle\\daemon\\9.0.0\\sv.edu.udb.finanzasudb.app-main-49:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\cesar\\.gradle\\daemon\\9.0.0\\sv.edu.udb.finanzasudb.app-mergeDebugResources-46:\\layout\\dialog_recovery_password.xml",
+        "source": "C:\\Users\\cesar\\.gradle\\daemon\\9.0.0\\sv.edu.udb.finanzasudb.app-main-49:\\layout\\dialog_recovery_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\cesar\\.gradle\\daemon\\9.0.0\\sv.edu.udb.finanzasudb.app-mergeDebugResources-46:\\layout\\item_grouped_subject.xml",
+        "source": "C:\\Users\\cesar\\.gradle\\daemon\\9.0.0\\sv.edu.udb.finanzasudb.app-main-49:\\layout\\item_grouped_subject.xml"
+    },
+    {
+        "merged": "C:\\Users\\cesar\\.gradle\\daemon\\9.0.0\\sv.edu.udb.finanzasudb.app-mergeDebugResources-46:\\layout\\item_calendar_activity.xml",
+        "source": "C:\\Users\\cesar\\.gradle\\daemon\\9.0.0\\sv.edu.udb.finanzasudb.app-main-49:\\layout\\item_calendar_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\cesar\\.gradle\\daemon\\9.0.0\\sv.edu.udb.finanzasudb.app-mergeDebugResources-46:\\layout\\dialog_add_transaction.xml",
+        "source": "C:\\Users\\cesar\\.gradle\\daemon\\9.0.0\\sv.edu.udb.finanzasudb.app-main-49:\\layout\\dialog_add_transaction.xml"
+    },
+    {
+        "merged": "C:\\Users\\cesar\\.gradle\\daemon\\9.0.0\\sv.edu.udb.finanzasudb.app-mergeDebugResources-46:\\layout\\item_fee.xml",
+        "source": "C:\\Users\\cesar\\.gradle\\daemon\\9.0.0\\sv.edu.udb.finanzasudb.app-main-49:\\layout\\item_fee.xml"
+    },
+    {
+        "merged": "C:\\Users\\cesar\\.gradle\\daemon\\9.0.0\\sv.edu.udb.finanzasudb.app-mergeDebugResources-46:\\layout\\item_schedule.xml",
+        "source": "C:\\Users\\cesar\\.gradle\\daemon\\9.0.0\\sv.edu.udb.finanzasudb.app-main-49:\\layout\\item_schedule.xml"
+    },
+    {
+        "merged": "C:\\Users\\cesar\\.gradle\\daemon\\9.0.0\\sv.edu.udb.finanzasudb.app-mergeDebugResources-46:\\layout\\dialog_news_detail.xml",
+        "source": "C:\\Users\\cesar\\.gradle\\daemon\\9.0.0\\sv.edu.udb.finanzasudb.app-main-49:\\layout\\dialog_news_detail.xml"
+    },
+    {
+        "merged": "sv.edu.udb.finanzasudb.app-mergeDebugResources-46:/layout/activity_transactions.xml",
+        "source": "sv.edu.udb.finanzasudb.app-main-49:/layout/activity_transactions.xml"
+    },
+    {
+        "merged": "C:\\Users\\cesar\\.gradle\\daemon\\9.0.0\\sv.edu.udb.finanzasudb.app-mergeDebugResources-46:\\layout\\activity_schedule.xml",
+        "source": "C:\\Users\\cesar\\.gradle\\daemon\\9.0.0\\sv.edu.udb.finanzasudb.app-main-49:\\layout\\activity_schedule.xml"
+    },
+    {
+        "merged": "C:\\Users\\cesar\\.gradle\\daemon\\9.0.0\\sv.edu.udb.finanzasudb.app-mergeDebugResources-46:\\layout\\activity_dashboard.xml",
+        "source": "C:\\Users\\cesar\\.gradle\\daemon\\9.0.0\\sv.edu.udb.finanzasudb.app-main-49:\\layout\\activity_dashboard.xml"
+    }
+]

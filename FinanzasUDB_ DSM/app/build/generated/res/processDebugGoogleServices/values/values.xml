@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">217902303641</string>
+    <string name="google_api_key" translatable="false">AIzaSyCqcdAUAzpfYUm2Lw34dx9l7oJvsWEcNk8</string>
+    <string name="google_app_id" translatable="false">1:217902303641:android:5eae15df04c9e5ffd8eb08</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCqcdAUAzpfYUm2Lw34dx9l7oJvsWEcNk8</string>
+    <string name="google_storage_bucket" translatable="false">finanzasapp-741b1.firebasestorage.app</string>
+    <string name="project_id" translatable="false">finanzasapp-741b1</string>
+</resources>
